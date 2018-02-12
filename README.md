@@ -1,4 +1,4 @@
-# Fract-ol
+<h1 style="text-align: center;">Fract-ol</h1>
 
 # Mandelbrot
 <img src="./demo/mandelbrot.png">
